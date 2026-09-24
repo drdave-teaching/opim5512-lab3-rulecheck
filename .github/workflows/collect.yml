@@ -1,3 +1,4 @@
+# (touched to re-register the schedule)
 # The robot. Every 5 minutes (GitHub may start it late or skip one when busy -
 # that's fine, collect.py catches up), it runs both partners' APIs and commits the
 # new rows to the `data` branch. Code lives on main (protected, PRs only);
